@@ -11,9 +11,3 @@ This project is an AI-powered information retrieval system that takes in a datas
 - **Downloadable Results**: Users can download extracted data in CSV format.
 
 ---
-
-### 📂 Folder Structure
-Organized folders for clarity:
-- **src/components**: Contains main components like `FileUpload.tsx`, `QueryBuilder.tsx`, and `ResultsTable.tsx`.
-- **src/styles**: Contains Tailwind CSS and custom styles in `index.css`.
-- **public**: Contains static assets.
